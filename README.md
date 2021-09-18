@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello I am Yuke, and I graduated with a Master's degree in Accounting. After having worked as an auditor for a Hong Kong firm for a year and obtaining my CPA, I have decided to take the plunge and teach myself coding! Watch me grow!
+Hello I am Yuke, and I graduated with a Master's degree in Accounting. After having worked as an auditor and obtained my CPA, I have decided to take the plunge and teach myself coding! Watch me grow!
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuke-zhao/)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
