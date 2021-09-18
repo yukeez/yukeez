@@ -19,7 +19,7 @@ Hello I am Yuke, and I graduated with a Master's degree in Accounting. After hav
   - [x] Learn Intermediate Python 3
   - [x] Learn the Command Line
   - [x] Learn Git
-  - [ ] Algorithms and Data Structures
+  - [ ] [Computer Science](https://www.codecademy.com/learn/paths/computer-science)
 
 - Free Code Camp:
 
