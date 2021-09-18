@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hello I am Yuke, and currently learning how to code. Follow me to see me grow!
+
+
+
 <!--
 **yukeez/yukeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
